@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:/Users/admin/Anaconda3/python.exe",
+    "python.linting.pylintArgs": [
+        "--disable=E1101,C0103,C0326,C0301,C0111,C0304,C1801,C0200"
+    ],
+    "python.formatting.provider": "yapf",
+    "git.ignoreLimitWarning": true
+}
